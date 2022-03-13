@@ -1,7 +1,7 @@
 # LaneDetection
 * Computer Vision 
 * Lane Detection 
-* OpenCV 
+* OpenCV 4.3.0
 * Using "Canny Edge Detector" & "Hough Transform"
 
 ## result
