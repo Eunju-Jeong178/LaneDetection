@@ -5,7 +5,7 @@
 * C++
 * Using "Canny Edge Detector" & "Hough Transform"
 
-## result
+### result
 
 ![1](https://user-images.githubusercontent.com/77608922/158049020-41ee5f37-6c54-4d83-98f0-5f3c1d0bc90a.gif)
 ![2gif](https://user-images.githubusercontent.com/77608922/158049021-23a21029-ce7d-4871-86e6-e4284b0cc6d0.gif)
